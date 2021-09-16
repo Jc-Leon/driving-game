@@ -5,3 +5,23 @@ body {
 img {
   width: 10%;
 }
+
+.right {
+  transform: rotate(1turn);
+  transition: 0.3s;
+}
+
+.down {
+  transform: rotate(0.25turn);
+  transition: 0.3s;
+}
+
+.left {
+  transform: rotate(0.5turn);
+  transition: 0.3s;
+}
+
+.up {
+  transform: rotate(0.75turn);
+  transition: 0.3s;
+}
